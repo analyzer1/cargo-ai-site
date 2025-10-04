@@ -1,0 +1,18 @@
+base_url = "http://127.0.0.1:1111"
+
+# Theme + build options required by Academic Paper
+compile_sass = true
+build_search_index = false
+generate_feeds = false
+minify_html = true
+
+theme = "academic-paper"
+
+[markdown]
+highlight_code = true
+highlight_theme = "css"   # the theme ships its own CSS highlighter
+
+[extra]
+# optional, but nice to have:
+footer_text = "© 2025 Analyzer 1, LLC — Open Source Project (MIT)"
+server_side_katex = false
