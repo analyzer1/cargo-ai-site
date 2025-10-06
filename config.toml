@@ -1,6 +1,5 @@
-base_url = "http://127.0.0.1:1111"
+base_url = "https://cargo-ai.org"
 
-# Theme + build options required by Academic Paper
 compile_sass = true
 build_search_index = false
 generate_feeds = false

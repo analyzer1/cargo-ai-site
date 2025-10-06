@@ -1,0 +1,13 @@
+# Zola build output
+public/
+
+# Zola cache (stores built templates, markdown parsing, etc.)
+.cache/
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+.idea/
+.vscode/
