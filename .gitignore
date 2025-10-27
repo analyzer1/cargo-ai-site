@@ -11,3 +11,6 @@ Thumbs.db
 *.tmp
 .idea/
 .vscode/
+
+# Google Backup
+.tmp.driveupload/

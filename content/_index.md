@@ -2,10 +2,11 @@
 title = "Cargo-AI"
 [extra]
 authors = [
-  { name = "Jonathan Pickard (AnalyzerOne)", url = "https://www.linkedin.com/in/jpickd/" }
+  { name = "Jonathan Pickard (Analyzer 1)", url = "https://www.linkedin.com/in/jpickd/" },
 ]
 buttons = [
-  { name = "GitHub", url = "https://github.com/analyzer1/cargo-ai" }
+  { name = "GitHub", url = "https://github.com/analyzer1/cargo-ai" },
+  { name = "YouTube", url = "https://www.youtube.com/channel/UCV0crH5jeLm-m5r-p7SiCnA" }
 ]
 venue = { name = "Launch", date = "2025-10-07" }
 +++
